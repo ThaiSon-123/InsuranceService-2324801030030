@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <EnableProjectDataOnBuild>false</EnableProjectDataOnBuild>
+    <_ProjectDataBuildActive>false</_ProjectDataBuildActive>
+    <_ProjectDataCanWriteOutput>false</_ProjectDataCanWriteOutput>
+  </PropertyGroup>
+
+  <!-- Override and disable buggy VS Code C# Dev Kit targets -->
+  <Target Name="_WriteProjectDataUserFolder" />
+  <Target Name="_WriteProjectDataProjectFolder" />
+</Project>
