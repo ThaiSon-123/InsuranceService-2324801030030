@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorWasmClient",
   "resources": {
-    "hash": "sha256-j0b/04p9mGJUwgTiq/uaR+m+NxMFFacRfYe5weUhE9E=",
+    "hash": "sha256-Zq1CCCGdi0tzyvlFvjU7yzWMS8zslwHHVeLRzBBuKls=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-D0bzod5lwwSzPR43JC8TTCcZKw+3jIHOk8CZFCRj5is="
     },
@@ -233,20 +233,20 @@
       "mscorlib.wasm": "sha256-8qWtIcy8fV43tlcx4DxsF45RlkcfK6588vVoxF7be2E=",
       "netstandard.wasm": "sha256-eOgz2RiO4YaPLOMIGgVLNrcfsQhmLQJzR0N7Pu2teXc=",
       "System.Private.CoreLib.wasm": "sha256-F8T63QCIbMPXPQPqTcuyBAw+oVvZSrWjy88j7fiJQZ4=",
-      "DashboardService.Api.wasm": "sha256-sPxehQyWYmYwNhKjz2F9YyW6E4TVCKOmztBIL/vGGQU=",
-      "PolicySearchService.Api.wasm": "sha256-wzN8hNU9qVgE5AqRaWHons1GgXwJvAM3lYrFeues4fk=",
-      "PolicyService.Api.wasm": "sha256-8VGAJia1ni8/MRw1h22UIqVQlUVvwsjjRtyqWkjXLTc=",
-      "PricingService.Api.wasm": "sha256-z352bY5K170mvJYZlZULqIdSHOpBo5MRggSxh3lofI0=",
-      "ProductService.Api.wasm": "sha256-g86Wv553wr+eLJ7+LDtJDExMJKGVXk62tAtOxLyEu1I=",
-      "BlazorWasmClient.wasm": "sha256-UXSWtq856P3S17kUn85ENlQZ9AJvPzOPSjTVky6/YpQ="
+      "DashboardService.Api.wasm": "sha256-fOOQTyHMBXbeFCingllavwNGbfkK6jyJFNYkyl3s2VA=",
+      "PolicySearchService.Api.wasm": "sha256-2pcIg8tq0pGfqd8z3Cfj9391+SIdHHrRRvNvHla0N8E=",
+      "PolicyService.Api.wasm": "sha256-JWFtbVtnJJ4K0zrPmsG2h7yWQSWIxuQ0Dd1VCZ7znSY=",
+      "PricingService.Api.wasm": "sha256-Hu4chhj8mFpCcktugweSXexlmKoowuZPcE3CuO8tu1k=",
+      "ProductService.Api.wasm": "sha256-7LxMDUDzGfBjts1ncy0sGrhhsBE3JEza56037ldZTBs=",
+      "BlazorWasmClient.wasm": "sha256-Z4ZH0s18+YUm/aU4CCcWjrNA6pbcxYm2laFiH5jfTaU="
     },
     "pdb": {
-      "DashboardService.Api.pdb": "sha256-MyycGSfZj32zBbfNIB6VX1euyPkrxY1AYIw1mOMOiI4=",
-      "PolicySearchService.Api.pdb": "sha256-4UMD9oixR/ZZmyZgecWUuh5f580ILbXeKOEHHGsViKc=",
-      "PolicyService.Api.pdb": "sha256-6UIOPr8ec28b/Uu0Le6juJd/HveQgCpy6SbR6yJeErY=",
-      "PricingService.Api.pdb": "sha256-bvyQs2zuoPJEUlKOFgbIIbHdZo4UbgZs7uwwSxSYx5Q=",
-      "ProductService.Api.pdb": "sha256-mN8DLDSckAWdpiNVfCDnIQZfAmuj/4ClVIrhMz5ysRg=",
-      "BlazorWasmClient.pdb": "sha256-AaP/kCkjRJ03zI0gupYZiBlHSM0NbpwKg9nBGNee1s4="
+      "DashboardService.Api.pdb": "sha256-8KKFwsiIGweCxjHGfKWsoMeY8c8/0G8XYcvV3ZgKdLs=",
+      "PolicySearchService.Api.pdb": "sha256-MBS0VgfpZ8tNTtqWcqUd8//o0RXLoeS/3Bh+WRh3eJY=",
+      "PolicyService.Api.pdb": "sha256-6yLj14QTe3PQcETkYjgfuqpbx6uVhfeoAB4KQ6mV7xY=",
+      "PricingService.Api.pdb": "sha256-fMHfRqSHcxDCzsUjIG4P9yfK/fToL0lyL1QW3WoEkJE=",
+      "ProductService.Api.pdb": "sha256-kaWcAGI8wfmBAgSm9iePmQxpIFP1hr0Q5Jhs+9Ih6dU=",
+      "BlazorWasmClient.pdb": "sha256-1Z0LXodry0OyXlpsJXgBiuS+4Npe3Eob1kSDQW+RwXA="
     }
   },
   "cacheBootResources": true,
