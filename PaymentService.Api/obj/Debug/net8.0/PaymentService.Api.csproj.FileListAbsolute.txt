@@ -1,0 +1,12 @@
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\bin\Debug\net8.0\PaymentService.Api.deps.json
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\bin\Debug\net8.0\PaymentService.Api.dll
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\bin\Debug\net8.0\PaymentService.Api.pdb
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.AssemblyInfoInputs.cache
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.AssemblyInfo.cs
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.csproj.CoreCompileInputs.cache
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.sourcelink.json
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.dll
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\obj\Debug\net8.0\refint\PaymentService.Api.dll
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\obj\Debug\net8.0\PaymentService.Api.pdb
+D:\Github\InsuranceService-2324801030030\PaymentService.Api\obj\Debug\net8.0\ref\PaymentService.Api.dll

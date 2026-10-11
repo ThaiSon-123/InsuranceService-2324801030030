@@ -1,0 +1,8 @@
+D:\Github\InsuranceService-2324801030030\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.csproj.AssemblyReference.cache
+D:\Github\InsuranceService-2324801030030\BlazorWasmClient\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Github\InsuranceService-2324801030030\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\InsuranceService-2324801030030\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.AssemblyInfoInputs.cache
+D:\Github\InsuranceService-2324801030030\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.AssemblyInfo.cs
+D:\Github\InsuranceService-2324801030030\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.csproj.CoreCompileInputs.cache
+D:\Github\InsuranceService-2324801030030\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\InsuranceService-2324801030030\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.sourcelink.json

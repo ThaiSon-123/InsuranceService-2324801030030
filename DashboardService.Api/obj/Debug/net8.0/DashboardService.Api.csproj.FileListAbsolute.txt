@@ -1,0 +1,12 @@
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\bin\Debug\net8.0\DashboardService.Api.deps.json
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\bin\Debug\net8.0\DashboardService.Api.dll
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\bin\Debug\net8.0\DashboardService.Api.pdb
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.AssemblyInfoInputs.cache
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.AssemblyInfo.cs
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.csproj.CoreCompileInputs.cache
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.sourcelink.json
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.dll
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\obj\Debug\net8.0\refint\DashboardService.Api.dll
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.pdb
+D:\Github\InsuranceService-2324801030030\DashboardService.Api\obj\Debug\net8.0\ref\DashboardService.Api.dll
