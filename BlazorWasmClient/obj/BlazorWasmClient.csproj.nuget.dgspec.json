@@ -318,7 +318,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Github\\InsuranceService-2324801030030\\ProductService.Api\\ProductService.Api.csproj": {
+                "projectPath": "D:\\Github\\InsuranceService-2324801030030\\ProductService.Api\\ProductService.Api.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

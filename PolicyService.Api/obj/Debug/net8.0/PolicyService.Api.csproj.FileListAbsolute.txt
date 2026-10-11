@@ -10,3 +10,7 @@ D:\Github\InsuranceService-2324801030030\PolicyService.Api\obj\Debug\net8.0\Poli
 D:\Github\InsuranceService-2324801030030\PolicyService.Api\obj\Debug\net8.0\refint\PolicyService.Api.dll
 D:\Github\InsuranceService-2324801030030\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.pdb
 D:\Github\InsuranceService-2324801030030\PolicyService.Api\obj\Debug\net8.0\ref\PolicyService.Api.dll
+D:\Github\InsuranceService-2324801030030\PolicyService.Api\bin\Debug\net8.0\ProductService.Api.dll
+D:\Github\InsuranceService-2324801030030\PolicyService.Api\bin\Debug\net8.0\ProductService.Api.pdb
+D:\Github\InsuranceService-2324801030030\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.csproj.AssemblyReference.cache
+D:\Github\InsuranceService-2324801030030\PolicyService.Api\obj\Debug\net8.0\PolicySe.52EDA19C.Up2Date

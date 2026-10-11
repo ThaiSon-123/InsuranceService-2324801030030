@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentPortalApiGateway", "Ag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardService.Api", "DashboardService.Api\DashboardService.Api.csproj", "{BC10595B-FE8E-4E76-94FA-C36A6344EC15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmClient", "BlazorWasmClient\BlazorWasmClient.csproj", "{BE2ECD31-360C-44DF-A088-DC55F7F699AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,18 @@ Global
 		{BC10595B-FE8E-4E76-94FA-C36A6344EC15}.Release|x64.Build.0 = Release|Any CPU
 		{BC10595B-FE8E-4E76-94FA-C36A6344EC15}.Release|x86.ActiveCfg = Release|Any CPU
 		{BC10595B-FE8E-4E76-94FA-C36A6344EC15}.Release|x86.Build.0 = Release|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Debug|x64.Build.0 = Debug|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Debug|x86.Build.0 = Debug|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Release|x64.ActiveCfg = Release|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Release|x64.Build.0 = Release|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Release|x86.ActiveCfg = Release|Any CPU
+		{BE2ECD31-360C-44DF-A088-DC55F7F699AB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
