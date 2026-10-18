@@ -3,6 +3,7 @@ using PricingService.Commands;
 using PricingService.Controllers;
 using PricingService.Data;
 using PricingService.Domain;
+using Steeltoe.Discovery.Client;
 
 namespace PricingService;
 
@@ -17,6 +18,9 @@ public class Startup
 
     public void ConfigureServices(IServiceCollection services)
     {
+        // Registers the service in Eureka (settings in appsettings.json, sections "spring" and "eureka").
+        services.AddDiscoveryClient(Configuration);
+
         services.AddDbContext<PricingDbContext>(options =>
             options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
         services.AddScoped<ITariffRepository, TariffRepository>();

@@ -1,4 +1,4 @@
-@PricingService_HostAddress = http://localhost:5068
+@PricingService_HostAddress = http://localhost:5040
 
 POST {{PricingService_HostAddress}}/api/Pricing
 Content-Type: application/json
