@@ -43,7 +43,7 @@
     {
         <Field Horizontal>
             <FieldLabel ColumnSize="ColumnSize.Is2">@answer.Question</FieldLabel>
-            @if (answer.Answer.QuestionType == QuestionType.Numeric)
+            @if (answer.Answer.QuestionType == PolicyService.Api.Commands.Dtos.QuestionType.Numeric)
             {
                 <FieldBody ColumnSize="ColumnSize.Is10">
                     <Validation Validator="CustomValidations.NotEmptyDecimal">
@@ -59,7 +59,7 @@
                 </FieldBody>
             }
 
-            @if (answer.Answer.QuestionType == QuestionType.Choice)
+            @if (answer.Answer.QuestionType == PolicyService.Api.Commands.Dtos.QuestionType.Choice)
             {
                 <FieldBody ColumnSize="ColumnSize.Is10">
                     <Validation Validator="ValidationRule.IsSelected">
